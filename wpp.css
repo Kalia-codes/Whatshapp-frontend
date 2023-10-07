@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    display: flex;
+}
+
+
+.box1{
+height: 100vh;
+width: 25%;
+background-color: #fff;
+
+
+}
+.box2{
+height: 100vh;
+width: 75%;
+background-color: #d2d2d2;
+}
+.box4{
+    padding: 32px;
+    height: 17rem;
+    width: 36rem;
+    position: absolute;
+    right: 15rem;
+    top: 13rem;
+    
+}
+.box4 img{
+    height: 9rem;
+    width: 9rem;
+    position: relative;
+    left: 13rem;
+
+}
+.box4 h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    fontwidth: 23px;
+    font-weight: 600;
+    text-align: center;
+    padding: 2px
+}
+.box p{
+    font-family: sans-serif;
+    font-size: 18px;
+    fontwidthn: 204px;
+    fontweight: 208px;
+    font-weight: 100;
+    line-height: 30px;
+    padding: 10px;
+}
+.box3 p{
+    text-align: center;
+}
+.box .box3 img{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 19.5rem;
+}
+.box1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    top: 152px;
+    bottom: 34px;
+    /* bottom: 12px; */
+    left: 15px;
+    position: absolute;
+    
+}
+.box .box1 .profile1{
+    position: absolute;
+    top: 1rem;
+}
+.box .box1 .profile2{
+    position: absolute;
+    top: 5rem;
+}
+.box .box1 .profile3{
+    position: absolute;
+    top: 9rem;
+}
+.box .box1 .profile4{
+    position: absolute;
+    top: 13rem;
+}
+.box .box1 .profile5{
+    position: absolute;
+    top: 17rem;
+}
+.box .box1 .profile6{
+    position: absolute;
+    top: 21rem;
+}
+.box .box1 .profile7{
+    position: absolute;
+    top: 25rem;
+}
+.box .box1  .profile .profile8{
+    position: absolute;
+    top: 29rem;
+}
+.box .box1  .profile .profile9{
+    position: absolute;
+    top: 33rem;
+}
+
+.box .box1 .empty{
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+    
+}
+.box .box1 .empty input{
+    height: 22px;
+    width: 284px;
+    border-radius: 6px;
+}
+
+    
+
+.box .box1 .empty  img{
+    position: absolute;
+    /* bottom: 35rem; */
+    left: 256px;
+    height: 23px;
+    width: 17px;
+    /* bottom: 13rem; */
+    top: 40px;
+}
